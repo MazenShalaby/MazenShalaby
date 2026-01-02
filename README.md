@@ -21,12 +21,12 @@
 
 <!-- GitHub -->
 <a href="https://github.com/MazenShalaby" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://github.com/MazenShalaby" width="40"/>
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  <img src="https://www.linkedin.com/in/mazen-shalaby-610521233/" width="40"/>
 </a>
 
 <!-- Twitter -->
@@ -35,7 +35,7 @@
 </a>
 
 <!-- Gmail -->
-<a href="mailto:mazen@email.com" target="_blank">
+<a href="mailto:waleedmazen85@email.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
 
