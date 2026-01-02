@@ -1,67 +1,91 @@
-<div align="center" width="50">
+<h1 align="center">Hi 👋, I'm Mazen Shalaby</h1>
+<h3 align="center">Python Back-End Web Developer • Django & DRF</h3>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%"/><br> 
-
-<h1>Hi 👋, I'm Mazen Shalaby</h1>
-<h3>Back-End Web Developer | Python & Django</h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MazenShalaby&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="coding">
+</p>
 
 ---
 
-## 🚀 About Me
-
-- 🐍 Back-End Web Developer specialized in **Python**
-- 🌐 Working mainly with **Django & Django REST Framework**
-- 🧠 Interested in **Clean Code, Best Practices & System Design**
-- ⚙️ Experience with **APIs, Authentication, Databases**
-- 📚 Always learning and improving
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Programming & Markup
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🔹 Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=flat)
-
-### 🔹 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-### 🔹 Tools & Environment
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+### 🌟 About Me
+- 🐍 Python Back-End Web Developer  
+- 🌐 Specialized in **Django & Django REST Framework**
+- ⚙️ Building scalable & secure **RESTful APIs**
+- 🧹 Clean Code, Best Practices & SOLID principles
+- 🇪🇬 From Egypt
 
 ---
 
-## 🧩 Developer Mindset (Code Style)
+### 🌐 Connect with me  
+<p align="left">
 
-```python
-class MazenShalaby:
-    role = "Back-End Developer"
-    language = "Python"
+<!-- GitHub -->
+<a href="https://github.com/MazenShalaby" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
 
-    def stack(self):
-        return {
-            "Frameworks": ["Django", "Django REST Framework"],
-            "Databases": ["PostgreSQL", "SQLite"],
-            "Tools": ["Git", "Linux", "VS Code"],
-            "Concepts": [
-                "REST APIs",
-                "Authentication",
-                "Clean Code",
-                "MVC / MVT",
-                "Caching"
-            ]
-        }
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:mazen@email.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
+
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="left">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+
+<br>
+
+<!-- Backend & Databases -->
+<img src="https://skillicons.dev/icons?i=django" width="45"/>
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+<img src="https://skillicons.dev/icons?i=sqlite" width="45"/>
+
+<br>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MazenShalaby&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+<a href="https://github.com/MazenShalaby">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MazenShalaby&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MazenShalaby&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MazenShalaby&label=Profile%20Views&color=0e75b6"/>
+</p>
