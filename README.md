@@ -16,6 +16,29 @@
 - 🇪🇬 From Egypt  
 
 ---
+### 🛠️ Languages & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-222222?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
 
 ### 🌐 Connect with me  
 <p align="left">
@@ -36,32 +59,6 @@
 
 ---
 
-### 🛠️ Languages & Tools  
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
-<img src="https://skillicons.dev/icons?i=django" width="45"/>
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
-<img src="https://skillicons.dev/icons?i=sqlite" width="45"/>
-<img src="https://skillicons.dev/icons?i=postman" width="45"/>
-<img src="https://skillicons.dev/icons?i=heroku" width="45"/>
-<img src="https://skillicons.dev/icons?i=linux" width="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-
-</p>
-
-
----
-
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -71,8 +68,19 @@
 </a>
 </p>
 
-<br><br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MazenShalaby&label=Profile%20Views&color=0e75b6"/>
 </p>
+  
+<hr></hr>
+
+**Code Cycle**
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+</div>
