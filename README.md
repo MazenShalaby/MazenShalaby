@@ -41,9 +41,9 @@
 
 <img src="https://skillicons.dev/icons?i=python" width="45"/>
 <img src="https://skillicons.dev/icons?i=django" width="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 <img src="https://skillicons.dev/icons?i=html" width="45"/>
 <img src="https://skillicons.dev/icons?i=css" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 <img src="https://skillicons.dev/icons?i=git" width="45"/>
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 
